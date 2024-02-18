@@ -1,0 +1,502 @@
+[
+    {
+        "coursenum": "11.522",
+        "title": "Research Seminar on Urban Information Systems",
+        "short_description": "Seminar participants and invited guests will lead critical discussions of current literature and ongoing research. Each student will be responsible for identifying, reviewing, and presenting one structured discussion of articles from the current literature that are relevant to their research topic. The remaining time will be spent working on individual projects or thesis proposals. This fall, the seminar will focus on the following core issues that underlie most implementations of urban information systems and decision support tools: the sustainable acquisition and representation of urban knowledge; the emergent technological infrastructure for supporting metropolitan decision-making; and the innovative organizational and institutional arrangements that can take advantage of modern urban information systems.\n\nArcGIS/ArcMap/ArcInfo Graphical User Interface is the intellectual property of ESRI and is used herein with permission. Copyright \u00a9 ESRI. All rights reserved.",
+        "level": "Graduate",
+        "instructor": "Prof. Joseph Ferreira",
+        "semester": "Fall",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/11-522-research-seminar-on-urban-information-systems-fall-2005"
+    },
+    {
+        "coursenum": "16.852J",
+        "title": "Integrating the Lean Enterprise",
+        "short_description": "This class addresses some of the important issues involved with the planning, development, and implementation of lean enterprises. People, technology, process, and management dimensions of an effective lean manufacturing company are considered in a unified framework. Particular emphasis is placed on the integration of these dimensions across the entire enterprise, including product development, production, and the extended supply chain. Analysis tools as well as future trends and directions are explored. A team project is a key component of this subject.",
+        "level": "Graduate",
+        "instructor": "Prof. Deborah Nightingale",
+        "semester": "Fall",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/16-852j-integrating-the-lean-enterprise-fall-2005"
+    },
+    {
+        "coursenum": "10.490",
+        "title": "Integrated Chemical Engineering I",
+        "short_description": "This course uses reaction kinetics, batch reactor analysis, batch distillation, batch operations scheduling, safety analysis, and the ABACUSS process simulator to introduce process design and analysis techniques.\n\nAcknowledgements\n----------------\n\nThe materials for the Fall 2006 offering of this course were drawn extensively from the materials that Professor Paul Barton used while teaching this course in past years. We are indebted to him for his long service to 10.490.",
+        "level": "Undergraduate",
+        "instructor": "Dr. Barry S. Johnston",
+        "semester": "Fall",
+        "year": 2006,
+        "course_url": "https://ocw.mit.edu/courses/10-490-integrated-chemical-engineering-i-fall-2006"
+    },
+    {
+        "coursenum": "6.189",
+        "title": "A Gentle Introduction to Programming Using Python",
+        "short_description": "This course will provide a gentle, yet intense, introduction to programming using Python for highly motivated students with little or no prior experience in programming. The course will focus on planning and organizing programs, as well as the grammar of the Python programming language.\n\nThe course is designed to help prepare students for [_6.01 Introduction to EECS I_](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/). 6.01 assumes some knowledge of Python upon entering; the course material for 6.189 has been specially designed to make sure that concepts important to 6.01 are covered.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.",
+        "level": "Undergraduate",
+        "instructor": "Sarina Canelake",
+        "semester": "January IAP",
+        "year": 2011,
+        "course_url": "https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011"
+    },
+    {
+        "coursenum": "16.121",
+        "title": "Analytical Subsonic Aerodynamics",
+        "short_description": "This subject is designed to inform students on the analytical foundations of inviscid subsonic aerodynamics. A primary goal of this subject is to equip students with the scientific rigor, applied mathematical complexity, and physical understanding that form the foundation of classical subsonic aerodynamics. Perturbation methods that both simplify mathematical complexity and expand physical understanding of critical phenomenon in fluid flow provides a framework for the subject. The subject offers lectures in classical subsonic aerodynamics at the graduate level on inviscid, subsonic, steady flow over slender aerodynamic bodies. Topics will be selected from: fundamentals of fluid mechanics \\[review\\]; singular-perturbation methods \\[introduction, JIT\\]; similitude; subsonic flows with axial symmetry; linearized subsonic flow; slender body theory; similarity rules for subsonic flows; two-dimensional flow past a wave-shaped wall; thin wing theory; Kaplan\u2019s higher approximations.",
+        "level": "Graduate",
+        "instructor": "Prof. Wesley Harris",
+        "semester": "Fall",
+        "year": 2017,
+        "course_url": "https://ocw.mit.edu/courses/16-121-analytical-subsonic-aerodynamics-fall-2017"
+    },
+    {
+        "coursenum": "2.61",
+        "title": "Internal Combustion Engines",
+        "short_description": "This course studies the fundamentals of how the design and operation of internal combustion engines affect their performance, efficiency, fuel requirements, and environmental impact. Topics include fluid flow, thermodynamics, combustion, heat transfer and friction phenomena, and fuel properties, with reference to engine power, efficiency, and emissions. Students examine the design features and operating characteristics of different types of internal combustion engines: spark-ignition, diesel, stratified-charge, and mixed-cycle engines. The class includes lab project in the Engine Laboratory.",
+        "level": "Graduate",
+        "instructor": "Prof. Wai Cheng",
+        "semester": "Spring",
+        "year": 2017,
+        "course_url": "https://ocw.mit.edu/courses/2-61-internal-combustion-engines-spring-2017"
+    },
+    {
+        "coursenum": "3.051J",
+        "title": "Materials for Biomedical Applications",
+        "short_description": "This class provides an introduction to the interactions between cells and the surfaces of biomaterials. The course covers: surface chemistry and physics of selected metals, polymers, and ceramics; surface characterization methodology; modification of biomaterials surfaces; quantitative assays of cell behavior in culture; biosensors and microarrays; bulk properties of implants; and acute and chronic response to implanted biomaterials. General topics include biosensors, drug delivery, and tissue engineering.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Anne Mayes",
+        "semester": "Spring",
+        "year": 2006,
+        "course_url": "https://ocw.mit.edu/courses/3-051j-materials-for-biomedical-applications-spring-2006"
+    },
+    {
+        "coursenum": "3.35",
+        "title": "Fracture and Fatigue",
+        "short_description": "Investigation of linear elastic and elastic-plastic fracture mechanics. Topics include microstructural effects on fracture in metals, ceramics, polymers, thin films, biological materials and composites, toughening mechanisms, crack growth resistance and creep fracture. Also covered: interface fracture mechanics, fatigue damage and dislocation substructures in single crystals, stress- and strain-life approach to fatigue, fatigue crack growth models and mechanisms, variable amplitude fatigue, corrosion fatigue and case studies of fracture and fatigue in structural, bioimplant, and microelectronic components.",
+        "level": "Graduate",
+        "instructor": "Prof. Subra Suresh",
+        "semester": "Fall",
+        "year": 2003,
+        "course_url": "https://ocw.mit.edu/courses/3-35-fracture-and-fatigue-fall-2003"
+    },
+    {
+        "coursenum": "6.033",
+        "title": "Computer System Engineering",
+        "short_description": "This class covers topics on the engineering of computer software and hardware systems. Topics include techniques for controlling complexity; strong modularity using client-server design, operating systems; performance, networks; naming; security and privacy; fault-tolerant systems, atomicity and coordination of concurrent activities, and recovery; impact of computer systems on society.",
+        "level": "Undergraduate",
+        "instructor": "Dr. Katrina LaCurts",
+        "semester": "Spring",
+        "year": 2018,
+        "course_url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018"
+    },
+    {
+        "coursenum": "MAS.160",
+        "title": "Signals, Systems and Information for Media Technology",
+        "short_description": "This class teaches the fundamentals of signals and information theory with emphasis on modeling audio/visual messages and physiologically derived signals, and the human source or recipient. Topics include linear systems, difference equations, Z-transforms, sampling and sampling rate conversion, convolution, filtering, modulation, Fourier analysis, entropy, noise, and Shannon's fundamental theorems. Additional topics may include data compression, filter design, and feature detection. The undergraduate subject MAS.160 meets with the two half-semester graduate subjects MAS.510 and MAS.511, but assignments differ.",
+        "level": "Undergraduate",
+        "instructor": "Dr. V. Michael Bove",
+        "semester": "Fall",
+        "year": 2007,
+        "course_url": "https://ocw.mit.edu/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007"
+    },
+    {
+        "coursenum": "6.012",
+        "title": "Microelectronic Devices and Circuits",
+        "short_description": "6.012 is the header course for the department's \"Devices, Circuits and Systems\" concentration. The topics covered include modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and MOS devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Clifton Fonstad",
+        "semester": "Fall",
+        "year": 2009,
+        "course_url": "https://ocw.mit.edu/courses/6-012-microelectronic-devices-and-circuits-fall-2009"
+    },
+    {
+        "coursenum": "12.003",
+        "title": "Atmosphere, Ocean and Climate Dynamics",
+        "short_description": "This undergraduate class is designed to introduce students to the physics that govern the circulation of the ocean and atmosphere. The focus of the course is on the processes that control the climate of the planet.\n\n##### Acknowledgments\n\nProf. Ferrari wishes to acknowledge that this course was originally designed and taught by Prof. John Marshall.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Raffaele Ferrari",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008"
+    },
+    {
+        "coursenum": "6.092",
+        "title": "Introduction to Programming in Java",
+        "short_description": "This course is an introduction to software engineering, using the Java\u2122 programming language. It covers concepts useful to 6.005. Students will learn the fundamentals of Java. The focus is on developing high quality, working software that solves real problems.\n\nThe course is designed for students with some programming experience, but if you have none and are motivated you will do fine. Students who have taken 6.005 should not take this course. Each class is composed of one hour of lecture and one hour of assisted lab work.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.",
+        "level": "Undergraduate",
+        "instructor": "Evan Jones",
+        "semester": "January IAP",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010"
+    },
+    {
+        "coursenum": "MAS.965",
+        "title": "NextLab I: Designing Mobile Technologies for the Next Billion Users",
+        "short_description": "Can you make a cellphone change the world?\n\nNextLab is a hands-on year-long design course in which students research, develop and deploy mobile technologies for the next billion mobile users in developing countries. Guided by real-world needs as observed by local partners, students work in multidisciplinary teams on term-long projects, closely collaborating with NGOs and communities at the local level, field practitioners, and experts in relevant fields.\n\nStudents are expected to leverage technical ingenuity in both mobile and internet technologies together with social insight in order to address social challenges in areas such as health, microfinance, entrepreneurship, education, and civic activism. Students with technically and socially viable prototypes may obtain funding for travel to their target communities, in order to obtain the first-hand feedback necessary to prepare their technologies for full fledged deployment into the real world (subject to guidelines and limitations).",
+        "level": "Undergraduate",
+        "instructor": "Dr. Gari Clifford",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008"
+    },
+    {
+        "coursenum": "12.820",
+        "title": "Turbulence in the Ocean and Atmosphere",
+        "short_description": "This course presents the phenomena, theory, and modeling of turbulence in the Earth's oceans and atmosphere. The scope ranges from centimeter to planetary scale motions. The regimes of turbulence include homogeneous isotropic three dimensional turbulence, convection, quasi-geostrophic turbulence, shallow water turbulence, baroclinic turbulence, macroturbulence in the ocean and atmosphere.",
+        "level": "Graduate",
+        "instructor": "Prof. Raffaele Ferrari",
+        "semester": "Spring",
+        "year": 2007,
+        "course_url": "https://ocw.mit.edu/courses/12-820-turbulence-in-the-ocean-and-atmosphere-spring-2007"
+    },
+    {
+        "coursenum": "16.886",
+        "title": "Air Transportation Systems Architecting",
+        "short_description": "This course addresses the architecting of air transportation systems. The focus is\u00a0on the conceptual phase of product definition, including technical, economic, market, environmental, regulatory, legal, manufacturing, and societal factors. It centers on a realistic system case study and includes a number of lectures from industry and government. Past examples include: the Very Large Transport Aircraft, a Supersonic Business Jet, and a Next Generation Cargo System. The course identifies the critical system level issues and analyzes them in depth via student team projects and individual assignments. The overall goal of the semester is to produce a business plan and a system specifications document that can be used to assess candidate systems.",
+        "level": "Graduate",
+        "instructor": "Prof. John-Paul Clarke",
+        "semester": "Spring",
+        "year": 2004,
+        "course_url": "https://ocw.mit.edu/courses/16-886-air-transportation-systems-architecting-spring-2004"
+    },
+    {
+        "coursenum": "2.830J",
+        "title": "Control of Manufacturing Processes (SMA 6303)",
+        "short_description": "This course explores statistical modeling and control in manufacturing processes. Topics include the use of experimental design and response surface modeling to understand manufacturing process physics, as well as defect and parametric yield modeling and optimization. Various forms of process control, including statistical process control, run by run and adaptive control, and real-time feedback control, are covered. Application contexts include semiconductor manufacturing, conventional metal and polymer processing, and emerging micro-nano manufacturing processes.",
+        "level": "Graduate",
+        "instructor": "Prof. Duane Boning",
+        "semester": "Spring",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008"
+    },
+    {
+        "coursenum": "6.007",
+        "title": "Electromagnetic Energy: From Motors to Lasers",
+        "short_description": "This course discusses applications of electromagnetic and equivalent quantum mechanical principles to classical and modern devices. It covers energy conversion and power flow in both macroscopic and quantum-scale electrical and electromechanical systems, including electric motors and generators, electric circuit elements, quantum tunneling structures and instruments. It studies photons as waves and particles and their interaction with matter in optoelectronic devices, including solar cells, displays, and lasers.\n\nThe instructors would like to thank Scott Bradley, David Friend, Ta-Ming Shih, and Yasuhiro Shirasaki for helping to develop the course, and Kyle Hounsell, Ethan Koether, and Dmitri Megretski for their work preparing the lecture notes for OCW publication.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Vladimir Bulovic",
+        "semester": "Spring",
+        "year": 2011,
+        "course_url": "https://ocw.mit.edu/courses/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011"
+    },
+    {
+        "coursenum": "2.993J",
+        "title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+        "short_description": "This course is offered to undergraduates and introduces students to the formulation, methodology, and techniques for numerical solution of engineering problems. Topics covered include: fundamental principles of digital computing and the implications for algorithm accuracy and stability, error propagation and stability, the solution of systems of linear equations, including direct and iterative techniques, roots of equations and systems of equations, numerical interpolation, differentiation and integration, fundamentals of finite-difference solutions to ordinary differential equations, and error and convergence analysis. The subject is taught the first half of the term.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.002J. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject was renumbered 2.993J.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Henrik Schmidt",
+        "semester": "Spring",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005"
+    },
+    {
+        "coursenum": "RES.18-002",
+        "title": "Introduction to MATLAB",
+        "short_description": "This course was offered as a non-credit program during the [Independent Activities Period (IAP)](http://web.mit.edu/iap/about/index.html), January 2008. A more recent version is available as course [_18.S997 Introduction To MATLAB Programming_](/courses/18-s997-introduction-to-matlab-programming-fall-2011/), including video lectures.\n\nThe course, intended for students with no programming experience, provides the foundations of programming in MATLAB\u00ae. Variables, arrays, conditional statements, loops, functions, and plots are explained. At the end of the course, students should be able to use MATLAB in their own work, and be prepared to deepen their MATLAB programming skills and tackle other languages for computing, such as Java, C++, or Python.\n\nThe course mostly follows the official [MATLAB Manual](http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/getstart.pdf), available from [The MathWorks](http://www.mathworks.com/). We will cover material from chapters 2-5.",
+        "level": "Undergraduate",
+        "instructor": "Yossi Farjoun",
+        "semester": "Spring",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/res-18-002-introduction-to-matlab-spring-2008"
+    },
+    {
+        "coursenum": "6.875",
+        "title": "Cryptography and Cryptanalysis",
+        "short_description": "This course features a rigorous introduction to modern cryptography, with an emphasis on the fundamental cryptographic primitives of public-key encryption, digital signatures, pseudo-random number generation, and basic protocols and their computational complexity requirements.",
+        "level": "Graduate",
+        "instructor": "Prof. Silvio Micali",
+        "semester": "Spring",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005"
+    },
+    {
+        "coursenum": "18.086",
+        "title": "Mathematical Methods for Engineers II",
+        "short_description": "This graduate-level course is a continuation of Mathematical Methods for Engineers I (18.085). Topics include numerical methods; initial-value problems; network flows; and optimization.",
+        "level": "Graduate",
+        "instructor": "Prof. Gilbert Strang",
+        "semester": "Spring",
+        "year": 2006,
+        "course_url": "https://ocw.mit.edu/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006"
+    },
+    {
+        "coursenum": "22.106",
+        "title": "Neutron Interactions and Applications",
+        "short_description": "This course is intended to introduce the student to the concepts and methods of transport theory needed in neutron science applications. This course is a foundational study of the effects of multiple interactions on neutron distributions and their applications to problems across the Nuclear Engineering department. Stochastic and deterministic simulation techniques will be introduced to the students.",
+        "level": "Graduate",
+        "instructor": "Prof. Benoit Forget",
+        "semester": "Spring",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/22-106-neutron-interactions-and-applications-spring-2010"
+    },
+    {
+        "coursenum": "3.45",
+        "title": "Magnetic Materials",
+        "short_description": "This course will cover the following topics:\n\n*   Magnetostatics\n*   Origin of magnetism in materials\n    \n*   Magnetic domains and domain walls\n    \n*   Magnetic anisotropy\n    \n*   Reversible and irreversible magnetization processes\n    \n*   Hard and soft magnetic materials\n    \n*   Magnetic recording\n    \n\nSpecial topics\u00a0include magnetism of thin films, surfaces and fine particles; transport in ferromagnets, magnetoresistive sensors, and amorphous magnetic materials.",
+        "level": "Graduate",
+        "instructor": "Dr. Robert O\u2019Handley",
+        "semester": "Spring",
+        "year": 2004,
+        "course_url": "https://ocw.mit.edu/courses/3-45-magnetic-materials-spring-2004"
+    },
+    {
+        "coursenum": "5.512",
+        "title": "Synthetic Organic Chemistry II",
+        "short_description": "This course focuses on general methods and strategies for the synthesis of complex organic molecules. Emphasis is on strategies for stereoselective synthesis, including stereocontrolled synthesis of complex acyclic compounds.",
+        "level": "Graduate",
+        "instructor": "Prof. Rick Danheiser",
+        "semester": "Spring",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/5-512-synthetic-organic-chemistry-ii-spring-2005"
+    },
+    {
+        "coursenum": "6.827",
+        "title": "Multithreaded Parallelism: Languages and Compilers",
+        "short_description": "The topics covered in this course include:\n\n*   Languages and compilers to exploit multithreaded parallelism\n*   Implicit parallel programming using functional languages and their extensions\n*   Higher-order functions, non-strictness, and polymorphism\n*   Explicit parallel programming and nondeterminism\n*   The lambda calculus and its variants\n*   Term rewriting and operational semantics\n*   Compiling multithreaded code for symmetric multiprocessors and clusters\n*   Static analysis and compiler optimizations\n\nThis course is worth 4 Engineering Design Points.",
+        "level": "Graduate",
+        "instructor": "Prof. Arvind",
+        "semester": "Fall",
+        "year": 2002,
+        "course_url": "https://ocw.mit.edu/courses/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002"
+    },
+    {
+        "coursenum": "6.976",
+        "title": "High Speed Communication Circuits and Systems",
+        "short_description": "6.976 covers circuit and system level design issues of high speed communication systems, with primary focus being placed on wireless and broadband data link applications. Specific circuit topics include transmission lines, high speed and low noise amplifiers, VCO's, and high speed digital circuits. Specific system topics include frequency synthesizers, clock and data recovery circuits, and GMSK transceivers. In addition to learning analysis skills for the above items, students will gain a significant amount of experience in simulating circuits in SPICE and systems in CppSim (a custom C++ simulator).",
+        "level": "Graduate",
+        "instructor": "Prof. Michael Perrott",
+        "semester": "Spring",
+        "year": 2003,
+        "course_url": "https://ocw.mit.edu/courses/6-976-high-speed-communication-circuits-and-systems-spring-2003"
+    },
+    {
+        "coursenum": "15.872",
+        "title": "System Dynamics II",
+        "short_description": "Continuation of _15.871_, emphasizing tools and methods needed to apply systems thinking and simulation modeling successfully in complex real-world settings. Uses simulation models, management flight simulators, and case studies to deepen the conceptual and modeling skills introduced in _15.871_. Through models and case studies of successful applications students learn how to use qualitative and quantitative data to formulate and test models, and how to work effectively with senior executives to implement change successfully.",
+        "level": "Graduate",
+        "instructor": "Prof. Hazhir Rahmandad",
+        "semester": "Fall",
+        "year": 2013,
+        "course_url": "https://ocw.mit.edu/courses/15-872-system-dynamics-ii-fall-2013"
+    },
+    {
+        "coursenum": "1.76",
+        "title": "Aquatic Chemistry",
+        "short_description": "This course details the quantitative treatment of chemical processes in aquatic systems such as lakes, oceans, rivers, estuaries, groundwaters, and wastewaters. It includes a brief review of chemical thermodynamics that is followed by discussion of acid-base, precipitation-dissolution, coordination, and reduction-oxidation reactions. Emphasis is on equilibrium calculations as a tool for understanding the variables that govern the chemical composition of aquatic systems and the fate of inorganic pollutants.\n\nThis course is offered through The [MIT/WHOI Joint Program](http://web.mit.edu/mit-whoi/www/). The MIT/WHOI Joint Program is one of the premier marine science graduate programs in the world. It draws on the complementary strengths and approaches of two great institutions: the Massachusetts Institute of Technology (MIT) and the Woods Hole Oceanographic Institution (WHOI).",
+        "level": "Graduate",
+        "instructor": "Dr. Jim Moffett",
+        "semester": "Fall",
+        "year": 2005,
+        "course_url": "https://ocw.mit.edu/courses/1-76-aquatic-chemistry-fall-2005"
+    },
+    {
+        "coursenum": "11.204",
+        "title": "Planning, Communications, and Digital Media",
+        "short_description": "This course focuses on methods of digital visualization and communication and their application to planning issues. Lectures will introduce a variety of methods for describing or representing a place and its residents, for simulating changes, for presenting visions of the future, and for engaging multiple actors in the process of guiding action. Through a series of laboratory exercises, students will apply these methods in the construction of a web-based portfolio. The portfolio is not only the final project for the course, but will serve as a container for other course work throughout the MCP program.\n\nThis course aims to introduce students to (1) such persistent and recurring themes as place, race, power and the environment that face planners, (2) the role of digital technologies in representing, analyzing, and mobilizing communities, (3) MIT faculty and their work, (4) MIT's computing environment and resources including Athena, Element K, the ESRI virtual campus, Computer Resources Laboratory (CRL), Campus Wide Information Systems Support (CWIS), the GIS Laboratory at Rotch Library and (5) software tools like Adobe\u00ae Photoshop\u00ae and Illustrator\u00ae, ESRI ArcView, Microsoft\u00ae Access, and Macromedia\u00ae Dreamweaver\u00ae that will assist them in creating digital images, working with relational databases, and launching a web-based portfolio.",
+        "level": "Graduate",
+        "instructor": "Prof. Lorlene Hoyt",
+        "semester": "Fall",
+        "year": 2004,
+        "course_url": "https://ocw.mit.edu/courses/11-204-planning-communications-and-digital-media-fall-2004"
+    },
+    {
+        "coursenum": "20.310J",
+        "title": "Molecular, Cellular, and Tissue Biomechanics",
+        "short_description": "This course develops and applies scaling laws and the methods of continuum and statistical mechanics to biomechanical phenomena over a range of length scales, from molecular to cellular to tissue or organ level.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Alan Grodzinsky",
+        "semester": "Spring",
+        "year": 2015,
+        "course_url": "https://ocw.mit.edu/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015"
+    },
+    {
+        "coursenum": "2.094",
+        "title": "Finite Element Analysis of Solids and Fluids II",
+        "short_description": "This course presents finite element theory and methods for general linear and nonlinear analyses. Reliable and effective finite element procedures are discussed with their applications to the solution of general problems in solid, structural, and fluid mechanics, heat and mass transfer, and fluid-structure interactions. The governing continuum mechanics equations, conservation laws, virtual work, and variational principles are used to establish effective finite element discretizations and the stability, accuracy, and convergence are discussed. The homework and the student-selected term project using the general-purpose finite element analysis program [ADINA](http://www.adina.com/) are important parts of the course.",
+        "level": "Graduate",
+        "instructor": "Klaus-J\u00fcrgen Bathe",
+        "semester": "Spring",
+        "year": 2011,
+        "course_url": "https://ocw.mit.edu/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011"
+    },
+    {
+        "coursenum": "6.854J",
+        "title": "Advanced Algorithms",
+        "short_description": "This is a graduate course on the design and analysis of algorithms, covering several advanced topics not studied in typical introductory courses on algorithms. It is especially designed for doctoral students interested in theoretical computer science.",
+        "level": "Graduate",
+        "instructor": "Prof. Michel Goemans",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008"
+    },
+    {
+        "coursenum": "6.837",
+        "title": "Computer Graphics",
+        "short_description": "This course provides introduction to computer graphics algorithms, software and hardware. Topics include: ray tracing, the graphics pipeline, transformations, texture mapping, shadows, sampling, global illumination, splines, animation and color. This course offers 6 Engineering Design Points in MIT's EECS program.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Fr\u00e9do Durand",
+        "semester": "Fall",
+        "year": 2012,
+        "course_url": "https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012"
+    },
+    {
+        "coursenum": "9.52-C",
+        "title": "Computational Cognitive Science",
+        "short_description": "An introduction to computational theories of human cognition.\u00a0Emphasizes questions of inductive learning and inference, and the representation of knowledge. Project required for graduate credit. This class is suitable for intermediate to advanced undergraduates or graduate students specializing in cognitive science, artificial intelligence, and related fields.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Joshua Tenenbaum",
+        "semester": "Spring",
+        "year": 2003,
+        "course_url": "https://ocw.mit.edu/courses/9-52-c-computational-cognitive-science-spring-2003"
+    },
+    {
+        "coursenum": "16.851",
+        "title": "Satellite Engineering",
+        "short_description": "Satellite Engineering introduces students to subsystem design in engineering spacecraft. The course presents characteristic subsystems, such as power, structure, communication and control, and analyzes the engineering trades necessary to integrate subsystems successfully into a satellite.\u00a0Discussions of spacecraft operating environment and orbital mechanics help students to understand the functional requirements and key design parameters for satellite systems.",
+        "level": "Graduate",
+        "instructor": "Col. John Keesee",
+        "semester": "Fall",
+        "year": 2003,
+        "course_url": "https://ocw.mit.edu/courses/16-851-satellite-engineering-fall-2003"
+    },
+    {
+        "coursenum": "3.21",
+        "title": "Kinetic Processes in Materials",
+        "short_description": "This course presents a unified treatment of phenomenological and atomistic kinetic processes in materials. It provides the foundation for the advanced understanding of processing, microstructural evolution, and behavior for a broad spectrum of materials. The course emphasizes analysis and development of rigorous comprehension of fundamentals. Topics include: irreversible thermodynamics; diffusion; nucleation; phase transformations; fluid and heat transport; morphological instabilities; gas-solid, liquid-solid, and solid-solid reactions.",
+        "level": "Graduate",
+        "instructor": "Prof. Samuel Allen",
+        "semester": "Spring",
+        "year": 2006,
+        "course_url": "https://ocw.mit.edu/courses/3-21-kinetic-processes-in-materials-spring-2006"
+    },
+    {
+        "coursenum": "6.041",
+        "title": "Probabilistic Systems Analysis and Applied Probability",
+        "short_description": "Welcome to 6.041/6.431, a subject on the modeling and analysis of random phenomena and processes, including the basics of statistical inference. Nowadays, there is broad consensus that the ability to think probabilistically is a fundamental component of scientific literacy. For example:\n\n*   The concept of statistical significance (to be touched upon at the end of this course) is considered by the Financial Times as one of \"The Ten Things Everyone Should Know About Science\".\n*   A [recent Scientific American article](http://www.scientificamerican.com/article.cfm?id=knowing-your-chances) argues that statistical literacy is crucial in making health-related decisions.\n*   Finally, an [article in the New York Times](http://www.nytimes.com/2009/08/06/technology/06stats.html) identifies statistical data analysis as an upcoming profession, valuable everywhere, from Google and Netflix to the Office of Management and Budget.\n\nThe aim of this class is to introduce the relevant models, skills, and tools, by combining mathematics with conceptual understanding and intuition.",
+        "level": "Undergraduate",
+        "instructor": "Prof. John Tsitsiklis",
+        "semester": "Fall",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010"
+    },
+    {
+        "coursenum": "4.313",
+        "title": "Advanced Studio on the Production of Space",
+        "short_description": "This class is developed around the concept of disobedient interference within the existing models of production of space and knowledge.\n\nModeling is the main _modus operandi_ of the class as students will be required to make critical diagrammatic cuts through processes of production in different thematic registers \u2013 from chemistry, law and economy to art, architecture and urbanism \u2013 in order to investigate the sense of social responsibility and control over the complex agendas embedded in models that supports production of everyday objects and surroundings. Students will be encouraged to explore relations between material or immaterial aspects and agencies of production, whether they emerged as a consequence of connection of mind, body and space, or the infrastructural, geographical and ecological complexities of the Anthropocene. These production environments will be taken as modeling settings.",
+        "level": "Undergraduate",
+        "instructor": "Nikola Bojic",
+        "semester": "Fall",
+        "year": 2016,
+        "course_url": "https://ocw.mit.edu/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016"
+    },
+    {
+        "coursenum": "11.364",
+        "title": "International Environmental Negotiation",
+        "short_description": "This seminar will explore the difficulties of getting agreement on global definitions of sustainability; in particularly building international support for efforts to combat climate change created by greenhouse gas emissions as well as other international resource management efforts. We will focus on possible changes in the way global environmental agreements are formulated and implemented, especially on ways of shifting from the current \"pollution control\" approach to combating climate change to a more comprehensive strategy for taking advantage of sustainable development opportunities.",
+        "level": "Graduate",
+        "instructor": "Prof. William Moomaw",
+        "semester": "Fall",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/11-364-international-environmental-negotiation-fall-2010"
+    },
+    {
+        "coursenum": "1.010",
+        "title": "Uncertainty in Engineering",
+        "short_description": "This course gives an introduction to probability and statistics, with emphasis on engineering applications. Course topics include events and their probability, the total probability and Bayes' theorems, discrete and continuous random variables and vectors, uncertainty propagation and conditional analysis. Second-moment representation of uncertainty, random sampling, estimation of distribution parameters (method of moments, maximum likelihood, Bayesian estimation), and simple and multiple linear regression. Concepts illustrated with examples from various areas of engineering and everyday life.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Daniele Veneziano",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/1-010-uncertainty-in-engineering-fall-2008"
+    },
+    {
+        "coursenum": "10.34",
+        "title": "Numerical Methods Applied to Chemical Engineering",
+        "short_description": "Numerical methods for solving problems arising in heat and mass transfer, fluid mechanics, chemical reaction engineering, and molecular simulation. Topics: Numerical linear algebra, solution of nonlinear algebraic equations and ordinary differential equations, solution of partial differential equations (e.g. Navier-Stokes), numerical methods in molecular simulation (dynamics, geometry optimization). All methods are presented within the context of chemical engineering problems. Familiarity with structured programming is assumed.",
+        "level": "Graduate",
+        "instructor": "Prof. William Green",
+        "semester": "Fall",
+        "year": 2015,
+        "course_url": "https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015"
+    },
+    {
+        "coursenum": "11.127J",
+        "title": "Computer Games and Simulations for Education and Exploration",
+        "short_description": "This course immerses students in the process of building and testing their own digital and board games in order to better understand how we learn from games. We explore the design and use of games in the classroom in addition to research and development issues associated with computer\u2013based (desktop and handheld) and non\u2013computer\u2013based media. In developing their own games, students examine what and how people learn from them (including field testing of products), as well as how games can be implemented in educational settings.",
+        "level": "Graduate",
+        "instructor": "Prof. Eric Klopfer",
+        "semester": "Spring",
+        "year": 2015,
+        "course_url": "https://ocw.mit.edu/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015"
+    },
+    {
+        "coursenum": "6.00",
+        "title": "Introduction to Computer Science and Programming",
+        "short_description": "6.00 Intro to CS and Programming has been retired from OCW.\u00a0You can access the archived course on [DSpace \u2013 MIT\u2019s digital repository](https://dspace.mit.edu/handle/1721.1/150580). Please see the list of\u00a0[introductory programming courses](https://ocw.mit.edu/collections/introductory-programming/) and other programming courses from recent years.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Eric Grimson",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008"
+    },
+    {
+        "coursenum": "6.830",
+        "title": "Database Systems",
+        "short_description": "This course relies on primary readings from the database community to introduce graduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, and transactions. It is designed for students who have taken [6.033](/courses/6-033-computer-system-engineering-spring-2018/) (or equivalent); no prior database experience is assumed, though students who have taken an undergraduate course in databases are encouraged to attend.",
+        "level": "Graduate",
+        "instructor": "Dr. Carlo Curino",
+        "semester": "Fall",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010"
+    },
+    {
+        "coursenum": "HST.583",
+        "title": "Functional Magnetic Resonance Imaging: Data Acquisition and Analysis",
+        "short_description": "This team-taught multidisciplinary course provides information relevant to the conduct and interpretation of human brain mapping studies. It begins with in-depth coverage of the physics of image formation, mechanisms of image contrast, and the physiological basis for image signals. Parenchymal and cerebrovascular neuroanatomy and application of sophisticated structural analysis algorithms for segmentation and registration of functional data are discussed. Additional topics include: fMRI experimental design including block design, event related and exploratory data analysis methods, and building and applying statistical models for fMRI data; and human subject issues including informed consent, institutional review board requirements and safety in the high field environment.\n\n##### {{< anchor \"fellows\" >}}{{< /anchor >}}Additional Faculty\n\nDiv Bolar\n\nDr. Bradford Dickerson\n\nDr. John Gabrieli\n\nDr. Doug Greve\n\nDr. Karl Helmer\n\nDr. Dara Manoach\n\nDr. Jason Mitchell\n\nDr. Christopher Moore\n\nDr. Vitaly Napadow\n\nDr. Jon Polimeni\n\nDr. Sonia Pujol\n\nDr. Bruce Rosen\n\nDr. Mert Sabuncu\n\nDr. David Salat\n\nDr. Robert Savoy\n\nDr. David Somers\n\nDr. A. Gregory Sorensen\n\nDr. Christina Triantafyllou\n\nDr. Wim Vanduffel\n\nDr. Mark Vangel\n\nDr. Lawrence Wald\n\nDr. Susan Whitfield-Gabrieli\n\nDr. Anastasia Yendiki",
+        "level": "Graduate",
+        "instructor": "Dr. Randy Gollub",
+        "semester": "Fall",
+        "year": 2008,
+        "course_url": "https://ocw.mit.edu/courses/hst-583-functional-magnetic-resonance-imaging-data-acquisition-and-analysis-fall-2008"
+    },
+    {
+        "coursenum": "6.003",
+        "title": "Signals and Systems",
+        "short_description": "6.003 covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Dennis Freeman",
+        "semester": "Fall",
+        "year": 2011,
+        "course_url": "https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011"
+    },
+    {
+        "coursenum": "16.410",
+        "title": "Principles of Autonomy and Decision Making",
+        "short_description": "This course surveys a variety of reasoning, optimization and decision making methodologies for creating highly autonomous systems and decision support aids. The focus is on principles, algorithms, and their application, taken from the disciplines of artificial intelligence and operations research.\n\nReasoning paradigms include logic and deduction, heuristic and constraint-based search, model-based reasoning, planning and execution, and machine learning. Optimization paradigms include linear programming, integer programming, and dynamic programming. Decision-making paradigms include decision theoretic planning, and Markov decision processes.",
+        "level": "Undergraduate",
+        "instructor": "Prof. Emilio Frazzoli",
+        "semester": "Fall",
+        "year": 2010,
+        "course_url": "https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010"
+    },
+    {
+        "coursenum": "2.993",
+        "title": "Special Topics in Mechanical Engineering: The Art and Science of Boat Design",
+        "short_description": "This class is jointly sponsored by the MIT Museum, Massachusetts Bay Maritime Artisans, the Department of Mechanical Engineering's Center for Ocean Engineering, and the Department of Architecture. The course teaches the fundamental steps in traditional boat design and demonstrates connections between craft and modern methods. Instructors provide vessel design orientation and then students carve their own shape ideas in the form of a wooden half-hull model. Experts teach the traditional skills of visualizing and carving your model in this phase of the class. After the models are completed, a practicing naval architect guides students in translating shape from models into a lines plan. The final phase of the class is a comparative analysis of the designs generated by the group.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.",
+        "level": "Undergraduate",
+        "instructor": "Christopher Dewart",
+        "semester": "January IAP",
+        "year": 2007,
+        "course_url": "https://ocw.mit.edu/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007"
+    },
+    {
+        "coursenum": "16.423J",
+        "title": "Aerospace Biomedical and Life Support Engineering",
+        "short_description": "This course introduces students to a quantitative approach to studying the problems of physiological adaptation in altered environments, especially microgravity and partial gravity environments. The course curriculum starts with an Introduction and Selected Topics, which provides background information on the physiological problems associated with human space flight, as well as reviewing terminology and key engineering concepts. Then curriculum modules on Bone Mechanics, Muscle Mechanics, Musculoskeletal Dynamics and Control, and the Cardiovascular System are presented. These modules start out with qualitative and biological information regarding the system and its adaptation, and progresses to a quantitative endpoint in which engineering methods are used to analyze specific problems and countermeasures. Additional course curriculum focuses on interdisciplinary topics, suggestions include extravehicular activity and life support. The final module consists of student term project work.",
+        "level": "Graduate",
+        "instructor": "Dava Newman",
+        "semester": "Spring",
+        "year": 2006,
+        "course_url": "https://ocw.mit.edu/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006"
+    }
+]
