@@ -1,4 +1,4 @@
-# E-Learning Platform with CMS
+# E-Learning Platform with CMS using Django
 
 This Django-based e-learning platform offers a robust Content Management System (CMS) for instructors to create and manage courses with flexibility. Utilizing model inheritance and generic relations, the platform supports a wide range of course content types. It features a comprehensive student registration system, enrollment management, a RESTful API, and a real-time chat server for students using Django Channels, enhancing the learning experience with asynchronous communication.
 
