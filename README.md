@@ -1,6 +1,15 @@
-# E-Learning Platform with CMS
+# E-Learning Platform with CMS using Django
 
-This Django-based e-learning platform offers a robust Content Management System (CMS) for instructors to create and manage courses with flexibility. Utilizing model inheritance and generic relations, the platform supports a wide range of course content types. It features a comprehensive student registration system, enrollment management, a RESTful API, and a real-time chat server for students using Django Channels, enhancing the learning experience with asynchronous communication.
+This is a Django-based learning platform offers a robust Content Management System (CMS) for instructors to create and manage courses with flexibility. Utilizing model inheritance and generic relations, the platform supports a wide range of course content types. It features a comprehensive student registration system, enrollment management, a RESTful API, and a real-time chat server for students using Django Channels, enhancing the learning experience with asynchronous communication.
+
+## Features
+
+- **Flexible Course Content Models**: Leverage model inheritance and generic relations for versatile course creation. Utilised crafted webscraping tools to fetch sample course details from free and open learning platforms.
+- **Instructor Dashboard**: A comprehensive system for instructors to manage courses and content efficiently.
+- **Student Dashboard**: Easy registration and interactive dashboard allowing access to courses and course content.
+- **RESTful API**: Extensive API for the e-learning platform.
+- **Real-time Chat**: Django Channels-based chat rooms for interactive learning environments for the students.
+- **Production Environment**: Docker Compose setup with NGINX, uWSGI, and Daphne for robust production deployment.
 
 ## Getting Started
 
@@ -38,14 +47,7 @@ To get the application up and running, follow these steps in your Linux terminal
 
 Once the application is running, access it by navigating to `https://localhost` in your web browser.
 
-## Features
 
-- **Flexible Course Content Models**: Leverage model inheritance and generic relations for versatile course creation. Utilised crafted webscraping tools to fetch sample course details from free and open learning platforms.
-- **Instructor Dashboard**: A comprehensive system for instructors to manage courses and content efficiently.
-- **Student Dashboard**: Easy registration and interactive dashboard allowing access to courses and course content.
-- **RESTful API**: Extensive API for the e-learning platform.
-- **Real-time Chat**: Django Channels-based chat rooms for interactive learning environments for the students.
-- **Production Environment**: Docker Compose setup with NGINX, uWSGI, and Daphne for robust production deployment.
 
 ## Demo GIFs
 To give you a quick overview of the platform's capabilities, here are a few demonstrations:
